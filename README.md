@@ -1,5 +1,5 @@
 <h1>AGD</h1>
-<p>
+<pre><code>
 inurl:”ViewerFrame?Mode=
 intitle:Axis 2400 video server
 inurl:/view.shtml
@@ -79,4 +79,4 @@ site:.viewnetcam.com -www.viewnetcam.com
 intitle:”Toshiba Network Camera” user login
 intitle:”netcam live image”
 intitle:”i-Catcher Console – Web Monitor”
-</p>
+</code></pre>
